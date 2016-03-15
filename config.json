@@ -1,0 +1,164 @@
+{
+  "port": 7000,
+  "address": "0.0.0.0",
+  "serveHttpAPI": true,
+  "serveHttpWallet": true,
+  "version": "0.1.1",
+  "fileLogLevel": "info",
+  "consoleLogLevel": "log",
+  "sharePort": true,
+  "api": {
+    "access": {
+      "whiteList": []
+    }
+  },
+  "peers": {
+    "list": [],
+    "blackList": [],
+    "options": {
+      "timeout": 4000
+    }
+  },
+  "forging": {
+    "secret": [
+      "0QOj3&BF%w79ErMv5uEL$0^*ivlI&@63",
+      "&kmAjt5Dlf^z5vsGIS35GzOM^GyCxw^D",
+      "1EPb@lCP3QLfRJmqm*MiIcRPlsUidf7x",
+      "db*q6fUCq9$@rCoEFyNTjkQHR&q3rkc4",
+      "fRUvsEE4gzD&HxTI@%Aa1oITR1Zikx7q",
+      "9Wbq#v&7hLVdypOwsuhyVjp&31kR*T&5",
+      "TevfzMbMGgYuag66U1$@G6E@JvM$5gvN",
+      "LrXCXEvqojbM^Nib^Dbnz^^WdSvShVNh",
+      "uDhA3rGVIdG%O&eD&d8K#T6W%7jLe%5E",
+      "&CanWx0Vlo9&7oa%Jwat8*IzeZ$NQg0%",
+      "hFMtuNBs#5bbZEII&1JTjqolTcQtvg8k",
+      "q0Pxyz#A1h&A7i4QY^^W4bdO#euomaAV",
+      "eUp34UKgNI@Iv^TwSpOH1g1E^n&qdP%L",
+      "9%%XiRQ^58BKX*85Hw8M1n*gZuFb1%O#",
+      "@EOKBNVZZ98ShR1m7rhgVs3f^R36Z8Vu",
+      "X%1Vs8dEV1O7LOt9oIAuwM9@@4JG#@k9",
+      "^XsSZxK5l6pFmv#PUwuqk6sINch7oSIA",
+      "33TvW@nkmA4IveGWt^pXD7ZAvDqK3rqU",
+      "y7Xb1cqJCA%7vach47vsGJB*Ayt%jD4Y",
+      "1%acOO93EnFDNC&9cGBlx5Jh5U7*^ez^",
+      "kqpuj%#nac$I$Rcdw#PHBoY^mB5PGgmO",
+      "aNcbZ*M6H$ljD^ll$MIMsF*kRoZ87Ln6",
+      "CDg$@1qUOvp7wnnfHocAjXFK8QCVBeDH",
+      "33XIglqsGxuZqXoxfORJZ$FU9v^#x4NV",
+      "yPY*aumoep@mppU1^#7pBXJvqPnsw%e^",
+      "Suk4yS4H@NIUIdK9N63kfFDK92IDjPC#",
+      "Efc5LuKfCsMYdeFsYJbhg@QGjWXQyXIt",
+      "QAWbU7JJONSqbMbL6fR9ZfqHo$Uynv1c",
+      "rFDN8W0B^IYP8nTpg^aVO6@b^ZUW&XfL",
+      "qDU3sp8GmB9^GRtvUuX*IfHQz&xuMS1v",
+      "jr5&B#iAj09v9s6#narTBnxOIz20xPRa",
+      "c5fhs*PLFU2TWunHMZiZ#GkzV%Phmk$1",
+      "RL2$mhdZ7mGai4aBOdTFC^T@Bg&vxmdF",
+      "4Xy6x@SiuYSRw%eQnaMpHqMzz5eLwjwY",
+      "Il%kJbW2$lHvVxGXer6bc%MyAu&pJ2oy",
+      "0x64HKlX35rF9fuR$QapDPTgZ3nkcLl9",
+      "qE2TeUKINtLr3kla04XOgGPSUOsY4fI3",
+      "QVBncba%bgr$jgde2p6ed&17DuE0Mu#8",
+      "1cj$QMAXQk9LBwFwfmD*p959jpq0oWr^",
+      "rKeDRGrXp1TinDQdSSh7YAP6mUUWcJXv",
+      "VksTO%zQ$HOzFeYiMp6W^RJEmL@Zty8o",
+      "5ybo1xMD8g%7bTvKCtVp$EEAfM*WEPso",
+      "HDof$2JtHe1bn61%xT#PW@tXRtJdA3Oq",
+      "uA@ZeIbj6UyVic7CIpOT2zcp*mEP4Il2",
+      "JDaNt#%#6iq1qe$xIHi4o#p8n4MNIIlm",
+      "q7%BrsW1c&e8%@^sXQrBJQeOT&khZ1Jc",
+      "N0H$f$hqPBhVNWJ0ET6xGYI&f3sDEj^a",
+      "36*sgO&uhybXzOmrKeYn%P5B&^GNur9e",
+      "xS15JxhT2V&#KV%@5POGJWgn9On76f^t",
+      "xx97ZidbI39HmEN4$%Ny9TIHa*2fxgyG",
+      "IF5w$IOmT%biupkT39AERS$5BeTT50h^",
+      "K#p$gl53rjrZS9@MulNOdVZkTWPDrEJZ",
+      "g1LTEw9f48e0Id92Sq#P#*Uvy66eoo4q",
+      "MSPcMRqZGgHCj7qeQCquO&51IP%LO7ph",
+      "&mFwBiHetp0G$X^5iG&ctUzrkO1gvzH^",
+      "$G^$Gmqd0#VAOj0O4loQEqkYSkf%YCUk",
+      "IA4uJjPmo^pUANtPFRzauy*m@5PuL%LD",
+      "dYaUBgZM&DSLsDwHLe2%Ivov7Sr5Q&oI",
+      "FVTPgOp8ebxjRGLAavED@VY6Y%BzaF#R",
+      "%*%9s6pWE5XDhKWNMCp7QZVKGzH11xAa",
+      "I83wWmb&DC4gs0@D&@1DnevKKg3jKDQ1",
+      "jp&dhnnZ3jtPAZufpV*TI%1yM0%E5#A*",
+      "Q#IaAXA@y1DrJX0yjahfKy3JwnlO#q%I",
+      "jtpEi14ZGhb*R%h2dlc5iJW69SFxnnOh",
+      "^Oqmp1ZCAo2UxISW1aKx$Gs*GOOZMw*x",
+      "ncz@mxwtIOYWnuGCXoewaOR87R1Ifrxy",
+      "el9ROJCRFiX06xgyAa*j7WJR4Q32l*qP",
+      "JZ%GciZJ7YZr0xD1$OUthq%Okrh^ZHcP",
+      "BuoRM9TNIha8xHbx%BYBuAelF9WQpZRg",
+      "o#F#&P*^UhYZDDOCZ$o#*N2maL6O9*nV",
+      "EO@Nsa9XIXOp2ooUi&0y4HEADLNx0URu",
+      "5Darry@6xA5P1faFc%LNyBZ5VEvxeoZw",
+      "eD$&6EZ&u^T5ZxGoe1VL0#Onuhjd88SV",
+      "%qyDY5rBWE7aj3YVuXYo26eGE8o@AT0*",
+      "EvmiWE^SHn1$G7G&v9KEmDu^Ege@d5eh",
+      "@CKI0UdbxfhW1aJ8L$iT@Y2^#lO%6ALA",
+      "$ikW@ya7yq0#kn$^a4Teg%ErwHOsavEa",
+      "1Yq8cCkbzfFj9OAFoxLfwHkgRHS5jWzl",
+      "4TA1Fe6FlYiRfxpUoPC2u2qB3w4Rr68R",
+      "noU^Y#MUk#&bTRkFRo*jO7$A4oaBHG5N",
+      "uxP@%4SR1#r%i*vLzA%H9pUXPnsHTOmp",
+      "hmh5o^8PJLOtzh4ByAh1^ljyMmhs94ec",
+      "Lamgd%Jv#b4kDvzLN0uVZ@wOTw*@lay1",
+      "t*m#Hby&qIYum4OD9OXPC9oMHYVzEt9v",
+      "vxo5fpuH3fMlwVymLksJN#QBqcpLWiL^",
+      "2VFJJ3kncJ8a$bnirrfwHKGUc6b@TWM5",
+      "d5#R7p12quEKmAM4lC9GiDQauaaVcJXs",
+      "RVv*^jJPWW&*SGClj7kaJT8JUJSL3Z7u",
+      "B3T6eXfMP5Y#Uq7pUvvgw%TltVDOWyU9",
+      "JDya11ve&S7j*rD@ZnG2$#LV86gLUC%6",
+      "IPp@euVFcYjGu@6$EcjnZut@ZS1&ccy%",
+      "KWx$4R4TrChV#adzT%Sd8i8i1$EN#CG3",
+      "j4Tzy9VNA6sXSjMKz#LMpv#DU8TlJNgy",
+      "ROOku9P0RI&kjXTjmO#xzc1OjJNvSZTc",
+      "03NwIAYVcupWtVm6M*bhTAyoT40noOTV",
+      "yZpyBGzPO$*tzYwAckVR1&CGnA2hn3qr",
+      "9%x#CWYgcrXv9DnscumktgGdAiA*dYD$",
+      "^LbWx6%rKu6aKtgr4Deg4dCG^lbsn6fc",
+      "EYWmGQSYVXHbd6Kqb4TCw9NqEeu4@#HA",
+      "*TxvrCN7t7T&%tfNJmIQq4oyBVWlj8oh",
+      "@@QZOizz4z0fKQP@BnpoXdGwUufLSch7"
+    ],
+    "access": {
+      "whiteList": [
+        "127.0.0.1"
+      ]
+    }
+  },
+  "loading": {
+    "verifyOnLoading": false,
+    "loadPerIteration": 5000
+  },
+  "sia": {
+    "peer": {
+      "ip": "127.0.0.1",
+      "port": 9980
+    }
+  },
+  "ssl": {
+    "enabled": false,
+    "options": {
+      "port": 443,
+      "address": "0.0.0.0",
+      "key": "./ssl/lisk.key",
+      "cert": "./ssl/lisk.crt"
+    }
+  },
+  "dapp": {
+    "masterrequired": true,
+    "masterpassword": "F8e9QyonvKKR",
+    "autoexec": [
+      {
+        "params": [
+          "12345678",
+          "modules.full.json"
+        ],
+        "dappid": "11172989537083733196"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "ed2curve",
+  "version": "0.1.3",
+  "description": "Convert Ed25519 signing keys into Curve25519 Diffie-Hellman keys.",
+  "main": "ed2curve.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "uglifyjs ed2curve.js -c -m -o ed2curve.min.js",
+    "test": "faucet test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchest/ed2curve-js.git"
+  },
+  "keywords": [
+    "ed25519",
+    "curve25519",
+    "djb",
+    "crypto",
+    "public",
+    "keys",
+    "edwards",
+    "montgomery",
+    "elliptic"
+  ],
+  "author": {
+    "name": "Dmitry Chestnykh"
+  },
+  "license": "Public domain",
+  "bugs": {
+    "url": "https://github.com/dchest/ed2curve-js/issues"
+  },
+  "homepage": "https://github.com/dchest/ed2curve-js",
+  "dependencies": {
+    "tweetnacl": "0.x.x"
+  },
+  "devDependencies": {
+    "faucet": "0.x.x",
+    "tape": "2.x.x",
+    "uglify-js": "2.x.x"
+  },
+  "gitHead": "d69227b3c6ea231ce0edd467f3f8d7d9f804db9d",
+  "_id": "ed2curve@0.1.3",
+  "_shasum": "0f5efd50a526a1222f3cbb3e900c39a20f9bedb5",
+  "_from": "ed2curve@>=0.1.3 <0.2.0",
+  "_npmVersion": "2.0.0-beta.0",
+  "_npmUser": {
+    "name": "dchest",
+    "email": "dmitry@codingrobots.com"
+  },
+  "maintainers": [
+    {
+      "name": "dchest",
+      "email": "dmitry@codingrobots.com"
+    }
+  ],
+  "dist": {
+    "shasum": "0f5efd50a526a1222f3cbb3e900c39a20f9bedb5",
+    "tarball": "http://registry.npmjs.org/ed2curve/-/ed2curve-0.1.3.tgz"
+  },
+  "_resolved": "https://registry.npmjs.org/ed2curve/-/ed2curve-0.1.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
